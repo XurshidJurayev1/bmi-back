@@ -1,0 +1,1 @@
+export const QuizAdd = 'http://localhost:3001/admin';
