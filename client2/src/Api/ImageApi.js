@@ -1,1 +1,1 @@
-export const ImageApi = 'http://localhost:5000/';
+export const ImageApi = 'https://xurshid-bmi.herokuapp.com/';
