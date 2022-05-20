@@ -171,7 +171,6 @@ class userController {
     try {
       const { id } = req.params;
       const { course, result } = req.body;
-      console.log(result);
       console.log(course);
 
 
